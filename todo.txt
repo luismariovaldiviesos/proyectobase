@@ -35,3 +35,8 @@ dentro de la carpeta controladores:
     ctr_pdf crea el pdf crea el pdf de la factura
     ctr_funciones
 
+
+********************************************
+desde aqui  hay que cambiar para que se asigne al usario el prefil y al perfil los permisos
+modificar permisos seeder, esta creao uno : ver_despacho 
+
