@@ -58,12 +58,12 @@ class RoleSeeder extends Seeder
 
 
         Permission::create([
-            'name' => 'ver_despacho',
+            'name' => 'ver_empresa',
             'guard_name' => 'web',
         ]);
 
         Permission::create([
-            'name' => 'editar_despacho',
+            'name' => 'editar_empresa',
             'guard_name' => 'web',
         ]);
 
