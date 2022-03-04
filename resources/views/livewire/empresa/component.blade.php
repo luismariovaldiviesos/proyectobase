@@ -11,6 +11,7 @@
 
             </div>
 
+            @can('ver_empresa')
 
             <div class="widget-content">
 
@@ -122,6 +123,8 @@
                 </div>
 
             </div>
+
+            @endcan
 
         </div>
         <br>
